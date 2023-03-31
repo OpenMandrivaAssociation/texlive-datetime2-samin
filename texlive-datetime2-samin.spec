@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-samin
 Version:	49346
-Release:	1
+Release:	2
 Summary:	Northern Sami language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-samin
