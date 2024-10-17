@@ -3,7 +3,7 @@ Version:	49346
 Release:	2
 Summary:	Northern Sami language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-samin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-samin
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-samin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-samin.doc.r%{version}.tar.xz
